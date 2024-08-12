@@ -1,0 +1,55 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.add{
+    margin: 50px auto;
+    width: 500px;
+    height: 200px;
+    border: 1px black solid;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px #6985c0;
+    display: flex;
+    flex-direction: column;
+}
+
+.add input{
+    margin: 3px;
+    border: none
+}
+
+.add button{
+    margin-left: 150px;
+    width: 200px;
+}
+
+.title-field{
+    height: 50px;
+}
+.note-field{
+    height: 110px;
+}
+
+
+.title{
+    padding-left: 20px;
+    height: 70px;
+}
+
+.content{
+    padding-left: 20px;
+    text-align: justify;
+    height: 130px;
+}
+
+.display{
+    margin: 50px auto;
+    width: 500px;
+    height: 200px;
+    border: 1px black solid;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px #6985c0; 
+}
+
+
